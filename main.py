@@ -12,10 +12,10 @@ import time
 
 load_dotenv()
 
-API_HASH = os.getenv("API_HASH")
-API_ID = os.getenv("API_ID")
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+API_HASH = os.getenv("0102b3dbf501dc0fb3176d4c9685eec8")
+API_ID = os.getenv("25595324")
+BOT_TOKEN = os.getenv("7020288265:AAHQPg9sxJMVQcYqW-QQY5MLKTgComEe3XI")
+GOOGLE_API_KEY = os.getenv("AIzaSyANDfiYeEjV-UURG_piqx-iljYkM4n1exs")
 
 GITHUB_BUTTON = InlineKeyboardMarkup(
     [
